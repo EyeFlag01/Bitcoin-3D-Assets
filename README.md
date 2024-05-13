@@ -1,5 +1,7 @@
 ![Preview USB-Stick](https://github.com/EyeFlag01/Bitcoin-3D-Assets/raw/main/USB-Stick/stick_render.png)
 
+Preview Video VendingMachine: https://imgur.com/vrnq27f
+
 Bitcoin 3D Asset Repository Introduction for Second Life and Beyond
 
 The Bitcoin 3D Asset Repository was originally crafted with Second Life in mind, providing inspiration for creators looking to integrate Bitcoin-themed elements into their virtual spaces. However, these assets are versatile and can be utilized in a wide range of projects beyond Second Life. Whether you're designing for virtual worlds, games, or any other creative endeavors, these assets offer boundless opportunities for incorporation.
